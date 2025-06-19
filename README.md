@@ -33,6 +33,12 @@ If you use this repository or find it helpful for your research, please cite the
 >Global Parkinson’s Genetics Program (GP2), 2025
 [*DOI: pending publication*]
 
+## Figures and Supplementary Figures
+*(pending publication)*
+
+## Tables and Supplementary Tables
+*(pending publication)*
+
 ### Helpful Links 
 - [GP2 Website](https://gp2.org/)
     - [GP2 Cohort Dashboard](https://gp2.org/cohort-dashboard-advanced/)
@@ -43,12 +49,14 @@ If you use this repository or find it helpful for your research, please cite the
 The `analyses/` directory includes all the analyses discussed in the manuscript or links to the respective GitHubs where analyses were followed.
 ```
 THIS REPO
+├── LICENSE
+├── README.md
 ├── analyses/
 |   ├── 00_GP2_metadata.ipynb
 |   ├── 01_GP2_WGS_R8_variant_extraction_and_annotation.ipynb
 │   └── 02_GP2_NBA_R9_variant_extraction_and_annotation.ipynb
-├── LICENSE
-└── README.md
+├── figures/
+└── tables/
 ```
 
 ## Analyses
